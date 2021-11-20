@@ -1,1 +1,1 @@
-this is demo project that makes more sence
+this is my game code to make the thingh
